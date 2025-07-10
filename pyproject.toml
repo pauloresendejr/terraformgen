@@ -1,0 +1,15 @@
+[project]
+name = "terraform-gen"
+version = "0.1.0"
+description = "Gerador de Arquivos de Terraform"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "cyclopts>=3.22.1",
+    "generate-files>=1.0.1",
+    "jinja2>=3.1.6",
+    "load-config>=0.2.0b6",
+]
+authors = [
+  { name = "Paulo Roberto Alves Resende Junior", email = "pauloresendejr@gmail.com"},
+]

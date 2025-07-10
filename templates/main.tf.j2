@@ -1,0 +1,18 @@
+terraform {
+    required_version = {{ terraform_version }}
+
+    backend "s3" {
+        bucket  = "{{ bucket_name }}"
+        key     = "{{ bucket_name }}/{{ project_name }}.tfstate"
+        region  = {{ region }}
+        profile = {{ profile }}
+    }
+
+    required_providers {
+        aws = {
+            source = "hashicorp/aws"
+            version = "~> {{ aws_provider_version }}"
+        }
+    }
+
+}

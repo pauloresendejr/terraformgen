@@ -1,0 +1,12 @@
+# providers.tf
+
+provider {{ provider }} {
+    profile = {{ profile }}
+    region = {{ region }}
+    allowed_account_ids = {{ allowed_account_ids }}
+
+    default_tags {
+      tags = local.tags
+    }
+    
+}
