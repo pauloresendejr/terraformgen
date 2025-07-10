@@ -17,6 +17,7 @@ The script reads configuration from 'genbase.config' and uses Jinja2 templates t
 
 Generated files are output to a 'bootstrap_output' directory.
 """
+
 import cyclopts
 from configparser import ConfigParser
 import os
