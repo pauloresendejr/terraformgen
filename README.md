@@ -48,7 +48,7 @@ pip install uv # ou pipx install uv
 # No Windows:
 ```powershell
 powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
-````
+```
 
 ⚙️ Instalação e Execução
 Siga os passos abaixo para configurar o ambiente e rodar a aplicação:
