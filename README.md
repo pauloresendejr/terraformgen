@@ -11,7 +11,7 @@ Gerenciamento de Dependências com uv: Aproveite a velocidade e eficiência do u
 
 pyproject.toml para Configuração Moderna: Utiliza o padrão pyproject.toml (PEP 621) para definir metadados do projeto, dependências e scripts, centralizando a configuração.
 
-Geração Padronizada de HCL: Ferramenta para a geração padronizada de arquivos HCL (HashiCorp Configuration Language), ideal para projetos Terraform.
+Geração Padronizada de HCL: geração padronizada de arquivos HCL (HashiCorp Configuration Language), ideal para projetos Terraform.
 
 ```pre
 📁 Estrutura do Projeto
