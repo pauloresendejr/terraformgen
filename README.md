@@ -74,9 +74,5 @@ Este projeto está licenciado sob a licença GNU. Veja o arquivo LICENSE para ma
 🤝 Contribuição
 Contribuições são sempre bem-vindas! Se você tiver sugestões, encontrou um bug ou quer adicionar um novo recurso, sinta-se à vontade para abrir uma issue ou enviar um pull request.
 
-📞 Contato
-Paulo Resende - pauloresendejr@gmail.com <br>
-Repositório do Projeto: https://github.com/pauloresendejr/terraformgen
-
 📚 Mais Recursos
 - Documentação Oficial do uv - https://docs.astral.sh/uv/guides/install-python/
