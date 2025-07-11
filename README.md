@@ -79,8 +79,4 @@ Paulo Resende - pauloresendejr@gmail.com <br>
 Repositório do Projeto: https://github.com/pauloresendejr/terraformgen
 
 📚 Mais Recursos
-Documentação Oficial do uv - https://docs.astral.sh/uv/guides/install-python/
-
-Guia de Instalação do Python
-
-PEP 621 – Storing project metadata in pyproject.toml
+- Documentação Oficial do uv - https://docs.astral.sh/uv/guides/install-python/
