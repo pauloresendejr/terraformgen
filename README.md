@@ -69,7 +69,7 @@ uv run main.py
 Nota: O uv gerenciará automaticamente o ambiente virtual e as dependências definidas no pyproject.toml ao usar uv run.
 
 📄 Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
+Este projeto está licenciado sob a licença GNU. Veja o arquivo LICENSE para mais detalhes.
 
 🤝 Contribuição
 Contribuições são sempre bem-vindas! Se você tiver sugestões, encontrou um bug ou quer adicionar um novo recurso, sinta-se à vontade para abrir uma issue ou enviar um pull request.
